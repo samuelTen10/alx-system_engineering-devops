@@ -1,2 +1,2 @@
 #!/bin/bash
-umask 354
+chmod umask 354
