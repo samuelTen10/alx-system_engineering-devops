@@ -12,3 +12,4 @@ changing directory to previous
 listing multiple directories
 discribing file types
 symbolic link
+using wildcards to copie files
