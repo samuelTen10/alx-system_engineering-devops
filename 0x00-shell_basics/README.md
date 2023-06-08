@@ -7,3 +7,4 @@ listing every file with detail
 making a directory
 moving a file to other directory
 deleting a file
+deleting a directory
