@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod umask 354
+chmod umask 354 hello
