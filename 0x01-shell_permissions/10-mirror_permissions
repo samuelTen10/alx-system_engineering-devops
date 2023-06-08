@@ -1,2 +1,2 @@
 #!/bin/bash
-umask 753
+umask 354
