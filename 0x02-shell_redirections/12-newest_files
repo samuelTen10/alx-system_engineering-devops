@@ -1,3 +1,2 @@
 #!/bin/bash
-count=0; for file in $(ls -lt); do if [[ $count -lt 10 ]]; then echo "$file"; count=$((count + 1)); else break; fi; done
-
+ls -t | head -n 10
