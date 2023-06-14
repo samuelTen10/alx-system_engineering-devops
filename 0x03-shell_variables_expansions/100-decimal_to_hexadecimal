@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "ibase=10; n=$DECIMAL; while [ \$n -gt 0 ]; do printf %X \$(( \$n % 16 )); n=\$(( \$n / 16 )); done | tac | tr -d '\n'; echo
+
